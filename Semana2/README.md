@@ -1,7 +1,7 @@
-# README - Jogo de Forca Online
+# Jogo de Forca Online
 
 ## 📌 **Propósito da Atividade**
-Este projeto é parte de uma atividade avaliativa sobre o uso do Git para controle de versões. Ele demonstra a criação progressiva do documento de requisitos de um jogo de forca online, evidenciando a prática de versionamento semântico.
+Este projeto é parte de uma atividade ponderada da segunda semana do curso de Engenharia de Software do Inteli, sobre o uso do Git para controle de versões. Ele demonstra a criação progressiva do documento de requisitos de um jogo de forca online, evidenciando a prática de versionamento semântico.
 
 ---
 
@@ -11,16 +11,14 @@ Este projeto é parte de uma atividade avaliativa sobre o uso do Git para contro
 
 ---
 
-## 🚀 **Como Visualizar o Documento de Requisitos**
+## 🚀 **Como Visualizar o Documento de Requisitos?**
 1. Acesse o arquivo `Requisitos_Forca.md` diretamente neste repositório.
 2. Observe as diferentes versões listadas no documento, que evidenciam a progressão do trabalho.
 
 ---
 
 ## 🗂️ **Histórico de Commits Sugestivos:**
-- `feat: Adicionada versão inicial com requisitos essenciais`
-- `feat: Incremento com requisitos adicionais`
-- `docs: Atualização com a versão final do documento`
+- `feat 0.1: (Inicial - Estrutura Básica)`
 
 ---
 
