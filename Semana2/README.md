@@ -18,7 +18,8 @@ Este projeto é parte de uma atividade ponderada da segunda semana do curso de E
 ---
 
 ## 🗂️ **Histórico de Commits Sugestivos:**
-- `feat 0.1: (Inicial - Estrutura Básica)`
+- `docs 0.1: (Inicial - Estrutura Básica)`
+- `feat 0.2: (Requisitos Essenciais)`
 
 ---
 
