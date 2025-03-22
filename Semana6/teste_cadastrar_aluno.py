@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 import requests
-from mock_server import mock_post_response  # Importando o mock
+from mockserver import mock_post_response  # Importando o mock
 
 class TestCadastroAluno(unittest.TestCase):
     @patch('requests.post', return_value=mock_post_response())
